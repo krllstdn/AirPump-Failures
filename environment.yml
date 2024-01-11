@@ -1,0 +1,13 @@
+name: datamole
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - pyarrow
+  - fastparquet
+  - ipykernel
+  - matplotlib
+  - scikit-learn
+  - imbalanced-learn
+prefix: /Users/kyrylo/anaconda3/envs/datamole
